@@ -1,0 +1,12 @@
+Variables: Es una manera de almacenar el valor de algo para utilizarla en algún otro momento. Puede contener diferentes tipos de datos como por ejemplo numeros, palabras, etc.
+
+String: Es una cadena de letras o numero que se ponen entre comillas y tiene la "característica" de una palabra.
+
+Funciones: son un tipo particular de objetos, intocables, sirven para calcular un conjunto de variables.
+Argumentos de una función: La parte de una función que identifica los datos sobre los cuales se debe operar.
+
+Return: Es lo que queremos que nos devuelva la función, el resultado.
+
+Declaraciones If: es una función de control de flujo y comparación que presenta dos opciones posibles, true o false.
+
+Valores Booleanos True y False: significa que tiene dos opciones, activar o desactivar, 0 o 1, verdadero o falso.
